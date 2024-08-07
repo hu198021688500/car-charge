@@ -10,4 +10,4 @@
 
 
 # 后台管理
-![后台管理](images/console.jpg)
+![后台管理](images/console.png)
